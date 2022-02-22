@@ -3,9 +3,12 @@ import TodoForm from "./TodoForm";
 import TodoList from "./TodoList";
 import axios from "axios"
 
+// Dashboard page 
 function Todos() {
+
     const [todoList, setTodoList] = useState([])
     
+    // GET request of all 'tpdos'
     useEffect(() => {
         axios.get('http://localhost:8080/todos')
         .then(res => {
@@ -16,6 +19,7 @@ function Todos() {
         })
     }, [])
 
+    // DELETE request of 'todo' by ID
     const deleteHandler  = id => {
         axios.delete(`http://localhost:8080/todos/${id}`)
             .then((res)=> {
@@ -30,7 +34,7 @@ function Todos() {
             })
     }
 
-
+    // PUT request to update 'todo' by ID
     const updateHandler = todo => {
         axios.put(`http://localhost:8080/todos/${todo.id}`, todo)
             .then((res)=> {

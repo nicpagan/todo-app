@@ -1,14 +1,14 @@
-const express = require('express');      // Importing Express
-const cors = require('cors');      // Importing Cors
+const express = require('express');   
+const cors = require('cors');      
   
 const db = require('./db/connection')
-
-const server = express();                // Initializing server
+// Initializing server
+const server = express();                
  
  
-// MIDDLEWEAR between req and res to check for value, authentication, ect - synchronous process
-server.use(cors());     // Invoking cors - middlewear - allows us to safely share restricted resources (req and res) across the internet
-server.use(express.json());      // Parses requests into JSON format.
+// MIDDLEWEAR 
+server.use(cors());    
+server.use(express.json());     
  
  
 server.get('/', (req, res) => {             // Basic route declared

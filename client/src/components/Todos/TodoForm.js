@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import axios from "axios";
 
+
+// Allows new todo's to be added to todo list
 function TodoForm ({ todos, setTodos }) {
 
     const initState = ({
@@ -20,6 +22,7 @@ function TodoForm ({ todos, setTodos }) {
             message: e.target.value })
     };
 
+    // upon submitting, add new input of 'todo' to current 'todo' list
     const handleSubmit = e => {
         e.preventDefault()
         setTodos([ todo, ...todos ])

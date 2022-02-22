@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 
+// Edit and Update 'todo' 
 function Todo({ todo, deleteHandler, updateHandler}) {
 
     const [isEditing, setIsEditing] = useState(false);

@@ -1,6 +1,7 @@
 import React from "react";
 import Todo from './Todo'
 
+// Returns and displays a list of todos
 function TodoList({ todos, deleteHandler, updateHandler }) {
     return(
         
