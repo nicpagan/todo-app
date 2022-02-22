@@ -6,8 +6,10 @@ A full stack web application built with React, Node, Express, JavaScript, HTML, 
 
 This application allows a user to create, edit, and delete a todo.
 
+**Application hosted on Heroku:**
+https://pagan-todo-client.herokuapp.com/
 
-## The Dashboard
+## Functionality Preview
 Dashboard
 ![](https://lh5.googleusercontent.com/sDYrtz2ttmxqiRJLGy8-OOa5XeT_GHe7Dqh_RowwVGX0y9MPdKvTRaaoTE6zMRUcOX6ogd1HTLy11REnWFbrfryItv4Zl0CL9V-DDyLRBcSHuOePGaiOrjTqkDCNHOD_ROQTz_EB)
 
