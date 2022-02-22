@@ -9,7 +9,7 @@ This application allows a user to create, edit, and delete a todo.
 
 ## The Dashboard
 Dashboard
-![](![](https://lh5.googleusercontent.com/sDYrtz2ttmxqiRJLGy8-OOa5XeT_GHe7Dqh_RowwVGX0y9MPdKvTRaaoTE6zMRUcOX6ogd1HTLy11REnWFbrfryItv4Zl0CL9V-DDyLRBcSHuOePGaiOrjTqkDCNHOD_ROQTz_EB))
+![](https://lh5.googleusercontent.com/sDYrtz2ttmxqiRJLGy8-OOa5XeT_GHe7Dqh_RowwVGX0y9MPdKvTRaaoTE6zMRUcOX6ogd1HTLy11REnWFbrfryItv4Zl0CL9V-DDyLRBcSHuOePGaiOrjTqkDCNHOD_ROQTz_EB)
 
 Create new Todo
 ![](https://im.ezgif.com/tmp/ezgif-1-2c1ea055c5.gif)
