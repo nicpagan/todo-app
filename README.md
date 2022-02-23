@@ -15,7 +15,7 @@ Dashboard
 
 Create new Todo
 
-![TodoGif.gif (600×338)](file:///C:/Users/nicxp/Videos/Captures/TodoGif.gif)
+![](https://lh4.googleusercontent.com/oABqQ3PD4xSc_WlT3M_gLJaXcYNKzcDTEGkAOwsdvD4qrYRb-TA5RWmjbiZpjNDtDf3YNiFxJ5uv82uXSP2aK8BQriIkrJtHmw8gSPcy1seCVo1uYsHdTv8jn0Qn5pP93a6Lvynn)
 
 Update a Todo
 
