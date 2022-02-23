@@ -15,7 +15,7 @@ Dashboard
 
 Create new Todo
 
-![](https://im.ezgif.com/tmp/ezgif-1-2c1ea055c5.gif)
+![TodoGif.gif (600×338)](file:///C:/Users/nicxp/Videos/Captures/TodoGif.gif)
 
 Update a Todo
 
