@@ -19,11 +19,11 @@ Create new Todo
 
 Update a Todo
 
-![](https://im.ezgif.com/tmp/ezgif-1-aad5465103.gif)
+![](https://lh3.googleusercontent.com/0qgnExXe1ngxPabKvS24qhjg8EC7hn2ykm5RmfHwRxtbRYNZTYXL9x7fBrn6J7bY9MWbRw7EiSHJGVfX3LJfQnYDqxP-mvUuu5GUqmkwpnaLr2GVzGocUmsYZN--37Dtug7G8wzz)
 
 Delete a Todo
 
-![](https://im.ezgif.com/tmp/ezgif-1-35d22c21c4.gif)
+![](https://lh6.googleusercontent.com/wNL6uJX2d_3uiPfXmmw7Ive0laLxZ7RtntlJGMcbDyC4O_wIjV5sfdTQfIHm75XQpLSKRgXo3SHGRRMNhFUhgpjUQsUgBL0nWMJ-QjVxqGres3evSUdapUu9pkDN-D7mI5E5Cwgb)
 
 
 ## Technologies and Tools
